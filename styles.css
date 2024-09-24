@@ -297,7 +297,7 @@ nav ul a {
 .about-section {
   width: 100%;
   height: 100vh;
-  margin-top: 70vh;
+  margin-top: 50vh;
   position: relative;
   z-index: 999;
 }
@@ -402,7 +402,7 @@ nav ul a {
   width: 100%;
   height: 300px;
   position: absolute;
-  top: -10%;
+  top: -20%;
   left: 0;
 }
 
